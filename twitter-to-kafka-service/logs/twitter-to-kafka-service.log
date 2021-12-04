@@ -1,0 +1,42 @@
+2021-12-04 16:01:07 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on DESKTOP-FDAJB7Q with PID 24084 (C:\Users\TarekSherifMorsyShaa\Desktop\Microserv\microservices-demo\twitter-to-kafka-service\target\classes started by ZZ00X0865 in C:\Users\TarekSherifMorsyShaa\Desktop\Microserv\microservices-demo)
+2021-12-04 16:01:07 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-12-04 16:01:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.255 seconds (JVM running for 2.063)
+2021-12-04 16:01:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-12-04 16:01:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-12-04 16:01:08 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2021-12-04 16:01:08 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting Mock filter Twitter stream for keywords: [Java, Microservices, Kafka, Elasticsearch]
+2021-12-04 16:01:08 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListerner - Recieved a Twitter Status with text::
+ arcufelis sed cras quis mattis quis Kafka bibendum arcufelis libero bibendum
+2021-12-04 16:01:11 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListerner - Recieved a Twitter Status with text::
+ cras pulvinar vivamus sed cras cras sed cras nibh Kafka nunc nibh sedblandit vivamus vivamus
+2021-12-04 16:01:14 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListerner - Recieved a Twitter Status with text::
+ sedblandit quis mattis nunc nibh nibh sedblandit Elasticsearch ornare sedblandit arcudui nunc nunc pulvinar
+2021-12-04 16:01:17 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListerner - Recieved a Twitter Status with text::
+ pulvinar viverra viverra pulvinar arcudui pulvinar pulvinar nunc Microservices pulvinar sed cras nibh cras vivamus viverra
+2021-12-04 16:01:20 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListerner - Recieved a Twitter Status with text::
+ quis quis vivamus nunc cras arcudui Kafka nunc sedblandit cras cras
+2021-12-04 16:01:23 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListerner - Recieved a Twitter Status with text::
+ nibh quis viverra Microservices volutpat arcudui
+2021-12-04 16:06:33 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on DESKTOP-FDAJB7Q with PID 26500 (C:\Users\TarekSherifMorsyShaa\Desktop\Microserv\microservices-demo\twitter-to-kafka-service\target\classes started by ZZ00X0865 in C:\Users\TarekSherifMorsyShaa\Desktop\Microserv\microservices-demo)
+2021-12-04 16:06:33 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-12-04 16:06:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.04 seconds (JVM running for 1.741)
+2021-12-04 16:06:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-12-04 16:06:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-12-04 16:06:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2021-12-04 16:06:34 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting Mock filter Twitter stream for keywords: [Java, Microservices, Kafka, Elasticsearch]
+2021-12-04 16:06:34 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ sedblandit libero mattis volutpat mattis arcudui libero pulvinar Microservices arcufelis pulvinar viverra volutpat sed cras sedblandit
+2021-12-04 16:06:37 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ volutpat volutpat sedblandit sed cras volutpat ornare vivamus Microservices bibendum nibh volutpat sedblandit mattis pulvinar
+2021-12-04 16:06:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ sedblandit arcufelis libero mattis Microservices sedblandit sed cras
+2021-12-04 16:06:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ quis ornare ornare sed cras viverra Java arcudui sedblandit vivamus
+2021-12-04 16:06:46 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ sed cras libero libero quis mattis nibh sedblandit arcufelis Elasticsearch nibh arcufelis sedblandit viverra sedblandit mattis
+2021-12-04 16:06:49 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ vivamus libero nibh Elasticsearch bibendum pulvinar
+2021-12-04 16:06:52 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ ornare vivamus ornare viverra libero quis pulvinar Microservices vivamus nunc mattis pulvinar bibendum
+2021-12-04 16:06:55 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Recieved a Twitter Status with text::
+ volutpat arcudui vivamus cras Elasticsearch sedblandit arcufelis
